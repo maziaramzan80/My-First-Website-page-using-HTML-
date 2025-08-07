@@ -9,10 +9,6 @@ I created a simple, static website using only **HTML** — no CSS or JavaScript 
 - Structuring a web page
 - Hosting my code using GitHub
 
-## 📁 Files Included
-- `index.html` — Main HTML file  
-- `images/` — Folder containing all images used in the page
-
 ## 📌 Future Goals
 - Add CSS styling to improve design
 - Make it mobile responsive
